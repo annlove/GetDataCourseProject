@@ -1,14 +1,14 @@
-## Read Me
+# Read Me
 
-# How to run the analysis
+## How to run the analysis
 source the script file under your working directory containing the Samsung dataset,
 and run 
 run_analysis()
 
-# Output
+## Output
 The result will be generated as "result.txt" in your working directory.
 
-# What the run_analysis.R do
+## What the run_analysis.R do
 
 The script run_analysis.R does the following. 
 * Merges the training and the test sets to create one data set.
