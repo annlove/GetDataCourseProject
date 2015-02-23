@@ -2,6 +2,8 @@
 
 The output txt file is the tidy data of 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Group by activity and subject, list the means of each measurements.
+
 
 It contains the following columns
 [1] "activity"                        "subject"                         "tBodyAcc.mean...X"               "tBodyAcc.mean...Y"              
