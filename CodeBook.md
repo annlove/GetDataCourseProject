@@ -1,7 +1,9 @@
 ## Code Book
 
-The output txt file contains the following columns
+The output txt file is the tidy data of 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+It contains the following columns
 [1] "activity"                        "subject"                         "tBodyAcc.mean...X"               "tBodyAcc.mean...Y"              
  [5] "tBodyAcc.mean...Z"               "tBodyAcc.std...X"                "tBodyAcc.std...Y"                "tBodyAcc.std...Z"               
  [9] "tGravityAcc.mean...X"            "tGravityAcc.mean...Y"            "tGravityAcc.mean...Z"            "tGravityAcc.std...X"            
@@ -24,8 +26,8 @@ The output txt file contains the following columns
 [77] "fBodyBodyGyroMag.std.."          "fBodyBodyGyroMag.meanFreq.."     "fBodyBodyGyroJerkMag.mean.."     "fBodyBodyGyroJerkMag.std.."     
 [81] "fBodyBodyGyroJerkMag.meanFreq.."
 
-please refer to 
-1.features_info.txt 
-2.README.txt
+Please refer to 
+1. features_info.txt 
+2. README.txt
 in https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 for detail infomation 
